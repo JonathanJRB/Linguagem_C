@@ -12,7 +12,7 @@ void    main()
     printf("Olá");
 
     int a = 50;
-    int	b = 6;
+    int b = 6;
     printf("%d", a + b);
     printf("O valor de a é = %d", a);
 }
